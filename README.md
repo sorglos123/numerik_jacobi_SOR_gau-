@@ -5,3 +5,5 @@ oder mehreren Unbekannten, die alle gleichzeitig erfüullt sein sollen. Die Prob
 der linearen Gleichungssysteme ist ein Teilgebiet der linearen Algebra und im alltäglichen
 Leben allgegenwärtig. Mögliche Anwendungsbereiche befnden sich im medizinischen, marktwirtschaftlichen
 und wissenschaftlichen Sektor.
+
+Der vorliegende Quelltext wurde im Umfang einer Projektarbeit ausgearbeitet.

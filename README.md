@@ -6,4 +6,7 @@ der linearen Gleichungssysteme ist ein Teilgebiet der linearen Algebra und im al
 Leben allgegenwärtig. Mögliche Anwendungsbereiche befnden sich im medizinischen, marktwirtschaftlichen
 und wissenschaftlichen Sektor.
 
-Der vorliegende Quelltext wurde im Umfang einer Projektarbeit ausgearbeitet.
+Der vorliegende Quelltext wurde im Umfang einer Projektarbeit ausgearbeitet und dient der Betrachtung
+dreier Verfahren zur iterativen Lösung linearer Gleichungssysteme. Dies sind die Lösung mithilfe des Jacobi-,
+Gauß-Seidel- und Successive Overrelaxation-Verfahrens.
+

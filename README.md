@@ -10,3 +10,5 @@ Der vorliegende Quelltext wurde im Umfang einer Projektarbeit ausgearbeitet und 
 dreier Verfahren zur iterativen Lösung linearer Gleichungssysteme. Dies sind die Lösung mithilfe des Jacobi-,
 Gauß-Seidel- und Successive Overrelaxation-Verfahrens.
 
+Mehr Theorie:
+https://github.com/sorglos123/numerik_jacobi_SOR_gausz/blob/main/iterative_lgs_projektarbeit_richter.pdf
